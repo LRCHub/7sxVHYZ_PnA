@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Aperture",
   "base_artist": "Harry Styles",
-  "createdAt": "2026-03-15T10:29:59.080301Z",
+  "createdAt": "2026-03-20T06:07:07.411205Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -99,6 +99,15 @@
       "artist": "Harry Styles",
       "has_synced": false,
       "path": "select/pl_01_Aperture_Harry_Styles.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Aperture",
+      "artist": "Harry Styles",
+      "has_synced": false,
+      "path": "select/localdb_01_Aperture_Harry_Styles.txt",
+      "repo_name": "7sxVHYZ_PnA"
     }
   ]
 }
